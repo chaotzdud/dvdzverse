@@ -1,4 +1,4 @@
-# 📀 DVDZVERSE - Estúdio de Soluções Digitais
+# DVDZVERSE - Estúdio de Soluções Digitais
 
 Repositório do código-fonte do portfólio digital **DVDZverse**.
 
@@ -39,7 +39,7 @@ npm run dev
 O site está organizado com as seguintes rotas principais:
 
 ```
-[www.dvdzverse.com.br](https://www.dvdzverse.com.br)/
+www.dvdzverse.com.br
 │
 ├── /           (Página Principal - Hub)
 ├── /tech/      (Portfolio de Programação)
